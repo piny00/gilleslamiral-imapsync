@@ -1,0 +1,10 @@
+version: '2'
+catalog:
+  name: gilleslamiral/imapsync
+  version: 1.0
+  description: This is a tool for imap accounts sync.
+  minimum_rancher_version: 1.0.1
+  maximum_rancher_version: 1.6.26
+  upgrade_from: 1.0.0
+  questions: #no questions
+
